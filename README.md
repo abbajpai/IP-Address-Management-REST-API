@@ -2,7 +2,7 @@
 # IP Address Management Application
 
 This application provides APIs to manage ( create, acquire , release , list) all possible ip addresses within
-the range of CIDR (Classless Inter-Domain Routing) -- also known as supernetting --
+the range of a given CIDR (Classless Inter-Domain Routing) string as an input -- also known as supernetting --
 
 
 
